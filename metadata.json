@@ -1,0 +1,6 @@
+{
+  "name": "Fogo & Brasa - Burger Artesanal",
+  "description": "Hamburgueria artesanal com carnes nobres Black Angus grelhadas na brasa viva, pão brioche de fermentação natural e sabores defumados incomparáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
